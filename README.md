@@ -1,4 +1,4 @@
-# All-Stars Youth Sports Club Blog
+# All-Stars Youth Sports Club Blogging Platform
 All-Stars Youth Sports Club Blog for Sports Parents, Coaches, Youth Sports Administrators, Youth Sports Boosters and Officials to establish networks across allsectors in our community to have lasting change and advance social change in support of children through high school.
 
 # Video Course Link
